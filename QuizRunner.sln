@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizRunner", "QuizRunner.csproj", "{90663B85-F379-4D61-BA45-E9282462FC8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "..\UnitTestProject1\UnitTestProject1.csproj", "{F79A99F2-286A-4733-86EE-E7C5CAF07A25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90663B85-F379-4D61-BA45-E9282462FC8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90663B85-F379-4D61-BA45-E9282462FC8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90663B85-F379-4D61-BA45-E9282462FC8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90663B85-F379-4D61-BA45-E9282462FC8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F79A99F2-286A-4733-86EE-E7C5CAF07A25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F79A99F2-286A-4733-86EE-E7C5CAF07A25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F79A99F2-286A-4733-86EE-E7C5CAF07A25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F79A99F2-286A-4733-86EE-E7C5CAF07A25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31C6CD41-9620-4868-80B2-31DE12A66520}
+	EndGlobalSection
+EndGlobal
